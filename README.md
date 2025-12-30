@@ -39,7 +39,7 @@ OnlineTravelBooking/
 
 #⚙️ Setup Instructions:
 1. Clone the Repository
-git clone https://github.com/yourusername/OnlineTravelBooking.git
+git clone (https://github.com/Anjali5226/ONLINE-TRAVEL-BOOKING-SYSTEM)
 cd OnlineTravelBooking
 
 2. Configure Database:
